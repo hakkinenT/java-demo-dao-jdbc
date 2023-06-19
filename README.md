@@ -14,6 +14,20 @@ implementar o conceito de Injeção de Depedência.
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/hakkinenT/assets/blob/master/java-projects/java-jdbc/modelo-conceitual-projeto.png)
 
+## Principais funcionalidades
+- Cadastrar um Vendedor
+- Atualizar um Vendedor
+- Excluir um Vendedor
+- Encontrar um Vendedor pelo ID
+- Encontrar um Vendedor pelo Departamento
+- Listar todos os Vendedores
+- Cadastrar um Departamento
+- Atualizar um Departamento
+- Excluir um Departamento
+- Encontrar um Departamento pelo ID
+- Listar todos os Departamentos
+
+
 # Tecnologias utilizadas
 - Java
 - JDBC
